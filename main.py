@@ -1,5 +1,5 @@
 import tkinter as tk
-from logica import click_event, draw_board, draw_chip
+from damas.logic import click_event, draw_board, draw_chip
 
 #Creo la ventana principal
 root = tk.Tk()
